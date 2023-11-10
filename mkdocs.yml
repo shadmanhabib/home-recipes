@@ -1,0 +1,21 @@
+site_name: Home Recipes
+site_url: https://recipes.shadmanhabib.com
+repo_url: https://github.com/shadmanhabib/home-recipes
+repo_name: shadmanhabib/home-recipes
+
+theme: 
+  name: material
+  features:
+    - navigation.instant
+    - naviagtion.instant.prefetch
+    - navigation.sections
+    - navigation.indexes
+    #- navigation.expand
+    #- navigation.tabs
+    #- toc.follow
+    #- toc.integrate
+    - navigation.path
+    - search.suggest
+
+nav:
+  - 'index.md'

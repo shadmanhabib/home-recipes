@@ -2,7 +2,7 @@
 Collection of recipes written in MkDocs. You can find the full site at [recipes.shadmanhabib.com](https://recipes.shadmanhabib.com).
 
 ## Table of Contents
-- [Network-Docs](#network-docs)
+- [Home-Recipes](#home-recipes)
   - [Table of Contents](#table-of-contents)
   - [About The Project](#about-the-project)
   - [Getting Started](#getting-started)
@@ -19,8 +19,10 @@ Collection of recipes written in MkDocs. You can find the full site at [recipes.
 To rebuild or update this project, the following steps may be followed.
 
 ### Prerequisites
-- Python 3.11 as required by MkDocs
+- Python 3.11 as required by MkDocs.
 - An installation of MkDocs, specifically Material for MkDocs.
+
+Pipenv can be used to deploy the required prerequisites. An associated Pipfile is included in the repo.
 
 ### Build
 - Serve live updates for testing and development with `mkdocs serve` and available at [localhost:8000](http://127.0.0.1:800).

@@ -6,7 +6,7 @@ This site will contain recipes.
 
 
 
-## Project layout
+## Contents
 
     mkdocs.yml    # The configuration file.
     docs/

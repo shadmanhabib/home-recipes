@@ -19,3 +19,15 @@ theme:
 
 nav:
   - 'index.md'
+  - 1. Curry:
+    - '01-curry/index.md'
+    - '01-curry/vegetables.md'
+    - '01-curry/meat.md'
+    - '01-curry/poultry.md'
+    - '01-curry/fish.md'
+    - '01-curry/lentil.md'
+    - '01-curry/rice & bread.md'
+    - '01-curry/desserts.md'
+    - '01-curry/drinks.md'
+    - '01-curry/snacks.md'
+    - '01-curry/relishes.md'

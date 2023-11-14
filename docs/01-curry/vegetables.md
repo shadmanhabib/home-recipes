@@ -23,7 +23,7 @@ Serve hot. Makes 4 servings
 Brinjal/eggplant:
 - 
 
-Peas:
+
 - 
 
 **Steps**

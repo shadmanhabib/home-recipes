@@ -76,15 +76,57 @@ Serve with bread or rice. Makes 16-20 servings
 
 **Ingredients**
 
+- 2kg lean boneless mutton
+- 1 cup finely chopped onion
+- 2 tbsp ground ginger
+- 2 tsp ground garlic
+- 5 cardamoms
+- 3 sticks cinnamon
+- 1 cup natural yoghurt
+- 1 tbsp sugar
+- 1 tbsp salt
+- 20 green chillies
+- 1 cup ghee or oil
+- 2 tbsp keora water
+- 2 tbsp raisins
+- 2 tbsp shredded almond
 
 **Steps**
+
+1. Make moderate sized pieces of mutton.
+2. In a cooking pan place meat, onion, ginger, garlic, cinnamon, cardamom, yoghurt, salt, and ghee. Mix well, cover, cook over mdoerate heat for about 25 min.
+3. When gravy thickens add keora, sugar and simmer for about 45 min, stirring from time to time. Add green chilli, raisins and keep over very low heat for about 1 hour. Garnish with almond
+
+Serve rezala with plain pullao, rice, or porota.
 
 ## Meat Potato Curry
 
 **Ingredients**
 
+- 1kg beef or lean boneless mutton
+- 3/4 cup cooking oil
+- 1/4 cup finely chopped onion
+- 1 tbsp ground ginger
+- 2 tsp ground garlic
+- 2 tsp ground tumeric
+- 1/2-1 tsp chilli powder
+- 1 tbsp salt
+- 2 tsp ground cumin
+- 2 tsp ground coriander
+- 1 tsp ground black papper
+- 3 sticks cinnamon
+- 3 cardamoms
+- 1 bay leaf
+- 450g potato
+- 2 tsp curry powder
 
 **Steps**
+
+1. In a pan put the ingredients except 1/4 cup of oil, potato and curry powder. Mix them well. Add water just to cover meat. Put lid on, cook over a low heat until meat is tender and water dries up.
+2. Peel and pare potatoes
+3. In a seperate pan heat oil. Add meat and potato, fry 10-15 min. Add hot water to cover meat and potato. Season with curry powder. Simmer till potato is soft.
+
+Serve hot with rice, pullao, porota, or bread. Makes 6 servings.
 
 ## Taj Kebab
 

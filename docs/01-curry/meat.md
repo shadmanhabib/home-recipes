@@ -299,6 +299,7 @@ Serve with salad and bread. Makes 6 servings.
 ## Bangla Curry Powder
 
 **Ingredients**
+
 - 3 bay leaves
 - 1/4 cup black pepper
 - 1/3 cup cumin seeds
